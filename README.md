@@ -19,6 +19,10 @@ The apps I'm currently using are:
 - [Qbittorrent](https://github.com/qbittorrent/qBittorrent): A powerful and easy-to-use BitTorrent client.
 - [Jellyfin](https://github.com/jellyfin/jellyfin): An open-source media system for your own library.
 - [Miniflux](https://github.com/miniflux/v2): A minimalist and open-source RSS reader.
+- [NGINX Proxy Manager](https://nginxproxymanager.com/): A simple way to manage your NGINX proxy.
+
+Another resources:
+- [Proxmox](https://www.proxmox.com/en/): A powerful and easy-to-use open-source virtualization platform.
 - A few others that I'll be adding over time.
 
 ---
